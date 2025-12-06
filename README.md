@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a B.Tech in Electronics and Communication Engineering and am writing to<br>express my interest in the opportunity at your organization. I have completed a Java programming<br>course from Coding Ninjas and possess strong fundamentals in Java, Data Structures &<br>Algorithms.<br> I am highly motivated, quick to learn, and eager to apply my technical knowledge in a professional environment while contributing positively to<br>the growth of your team.
+I am currently pursuing a B.Tech in Electronics and Communication Engineering and am writing to<br>express my interest in the opportunity at your organization. I have completed a Java programming<br>course from Coding Ninjas and possess strong fundamentals in Java, Data Structures &<br>Algorithms.<br> I am highly motivated, quick to learn, and eager to apply my technical knowledge in a professional environment while contributing positively to the growth of your team.
 
 
 ## 🌐 Socials:
